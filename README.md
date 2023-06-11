@@ -123,7 +123,7 @@ led2-pin21
 led3-pin19
 led4-pin18
 
-![](https://github.com/Omarcollado23/PRACSENSORDISTANCIA/blob/main/conexiones.jpg?raw=true)
+![](https://github.com/Omarcollado23/PRACTICA-4-SENSOR-DE-AGUA/blob/main/conexiones.jpg?raw=true)
 
 ### Instrucciónes de operación
 
@@ -137,12 +137,11 @@ led4-pin18
 
 Cuando haya funcionado, la información obtenida se arrojara en el LCD como se muestra en la siguente imagen.
 
-![](https://github.com/Omarcollado23/PRACSENSORDISTANCIA/blob/main/datos.jpg?raw=true)
-
-
-## Evidencias
-
-[Video de Youtube](https://https://wokwi.com/)
+![](https://github.com/Omarcollado23/PRACTICA-4-SENSOR-DE-AGUA/blob/main/led1.jpg?raw=true)
+![](https://github.com/Omarcollado23/PRACTICA-4-SENSOR-DE-AGUA/blob/main/led2.jpg?raw=true)
+![](https://github.com/Omarcollado23/PRACTICA-4-SENSOR-DE-AGUA/blob/main/led3.jpg?raw=true)
+![](https://github.com/Omarcollado23/PRACTICA-4-SENSOR-DE-AGUA/blob/main/led4.jpg?raw=true)
+![](https://github.com/Omarcollado23/PRACTICA-4-SENSOR-DE-AGUA/blob/main/leds%20apagados.jpg?raw=true)
 
 
 # Créditos
